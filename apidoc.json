@@ -1,0 +1,12 @@
+{
+  "name": "Dokumentasi API Sarcore Basarnas",
+  "version": "0.1.0",
+  "description": "List Api Basarnas Sarcore",
+  "apidoc": {
+    "title": "API V-1",
+    "url" : "http://apps.prosia.co.id:8072"
+  },
+  "header": {
+    "title": "Basarnas-2017"
+  }
+}
